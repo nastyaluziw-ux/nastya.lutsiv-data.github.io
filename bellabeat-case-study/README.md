@@ -4,6 +4,10 @@
 
 This case study analyzes Fitbit smart device usage data to identify trends in activity and sleep behavior. The goal is to apply these insights to Bellabeat’s marketing strategy.
 
+## Business Task
+
+Analyze smart device usage data to identify user behavior trends and provide marketing recommendations for Bellabeat Leaf.
+
 ## Tools Used
 
 - Python
@@ -13,6 +17,27 @@ This case study analyzes Fitbit smart device usage data to identify trends in ac
 - SQL
 - Jupyter Notebook
 
-## Status
+## Data Source
 
-Project in progress.
+FitBit Fitness Tracker Data from Kaggle.
+
+Files used:
+
+- dailyActivity_merged.csv
+- sleepDay_merged.csv
+
+## Process
+
+1. Imported raw CSV files with Python.
+2. Checked duplicate records and missing values.
+3. Converted date columns to proper date format.
+4. Created calculated columns.
+5. Exported cleaned CSV files.
+6. Loaded cleaned data into SQLite.
+7. Used SQL queries for analysis.
+8. Created Python visualizations.
+9. Developed business recommendations.
+
+## Project Status
+
+In progress.
