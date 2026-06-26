@@ -34,32 +34,30 @@ The selected files for this analysis are:
 * "dailyActivity_merged.csv"
 * "sleepDay_merged.csv"
 
-### Why These Files Were Selected
 
-The "dailyActivity_merged.csv" file includes daily activity information such as total steps, calories, active minutes, and sedentary minutes.
+### Why I Selected These Files
 
-The "sleepDay_merged.csv" file includes sleep information such as total minutes asleep and total time in bed.
+The daily activity file contains information about steps, calories, active minutes, and sedentary minutes.
 
-These two files were selected because they can help answer the main business questions about smart device usage trends related to activity and sleep behavior.
+The sleep file contains information about minutes asleep and time in bed.
+
+These files are useful because they connect with the features of Bellabeat Leaf.
 
 ### Data Organization
 
-The dataset is organized as CSV files. Each file contains rows of user activity or sleep records. The `Id` column identifies each user, and the date columns allow activity and sleep records to be analyzed over time.
+The dataset is organized in CSV files.
+
+Each file contains user records. The Id column identifies each user. The date columns help analyze activity and sleep over time.
 
 ### Data Limitations
 
-The dataset has several limitations:
+This dataset has some limitations:
 
 - The sample size is small.
 - The data comes from Fitbit users, not Bellabeat users.
-- The dataset does not confirm gender, age, location, or lifestyle of the users.
-- The data is historical and may not fully represent current smart device usage.
-- The data should be used for general insights, not final conclusions about Bellabeat customers.
+- The dataset does not include user age, gender, or location.
+- The data should be used for general insights, not final conclusions.
 
-### Data Privacy and Licensing
+### Prepare Phase Summary
 
-The dataset is publicly available and uses a public domain license. The users consented to share their fitness tracker data. No direct personal identifying information is included in the selected files.
-
-### 2.Prepare Phase Summary
-
-In this phase, I reviewed the available data source, selected the most relevant files for the business task, and documented the main limitations of the dataset before starting the cleaning process.
+In this phase, I reviewed the data source, selected the files for the analysis, and documented the main limitations of the dataset.
