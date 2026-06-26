@@ -1,35 +1,77 @@
-# Bellabeat Case Study: Smart Device Usage Analysis
+# Data Analytics Portfolio
 
-## Project Overview
+## About Me
 
-This project analyzes Fitbit smart device data to understand how users track daily activity and sleep.
+I am a junior data analyst. I completed the Google Data Analytics Certificate and I am building portfolio projects to practice the full data analysis process.
 
-The goal is to find simple usage trends and use them to make marketing recommendations for Bellabeat Leaf.
+My work focuses on data cleaning, SQL analysis, Python, data visualization, and business recommendations.
 
-## Business Task
+## Skills
 
-The business task is to analyze smart device usage data and identify trends in activity and sleep behavior.
+* Data cleaning
+* Data analysis
+* SQL
+* Python
+* pandas
+* numpuy
+* Data visualization
+* Business recommendations
+* GitHub documentation
 
-These insights will be used to make marketing recommendations for Bellabeat Leaf.
+## Projects
 
-## Product Focus
+### Bellabeat Case Study: Smart Device Usage Analysis
 
-I chose Bellabeat Leaf because it tracks activity, sleep, and stress.
+This project analyzes Fitbit smart device data to understand activity and sleep behavior.
 
-These features are related to the Fitbit activity and sleep data used in this project.
+The goal is to find usage trends and use them to make marketing recommendations for Bellabeat Leaf.
 
-## Data Source
+This case study follows the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-I used the FitBit Fitness Tracker Data dataset from Kaggle.
+Tools used:
 
-For this project, I selected two files:
+* Python
+* pandas
+* SQL
+* matplotlib
+* Jupyter Notebook
+* GitHub
 
-* `dailyActivity_merged.csv`
-* `sleepDay_merged.csv`
+Status: In progress.
 
-I selected these files because they contain activity and sleep data.
+## Contact
 
-## Tools
+* GitHub:# Data Analytics Portfolio
+
+## About Me
+
+I am a junior data analyst. I completed the Google Data Analytics Certificate and I am building portfolio projects to practice the full data analysis process.
+
+My work focuses on data cleaning, SQL analysis, Python, data visualization, and business recommendations.
+
+## Skills
+
+* Data cleaning
+* Data analysis
+* SQL
+* Python
+* pandas
+* SQLite
+* Data visualization
+* Business recommendations
+* GitHub documentation
+
+## Projects
+
+### Bellabeat Case Study: Smart Device Usage Analysis
+
+This project analyzes Fitbit smart device data to understand activity and sleep behavior.
+
+The goal is to find usage trends and use them to make marketing recommendations for Bellabeat Leaf.
+
+This case study follows the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+
+Tools used:
 
 * Python
 * pandas
@@ -39,6 +81,58 @@ I selected these files because they contain activity and sleep data.
 * Jupyter Notebook
 * GitHub
 
-## Project Status
+Status: In progress.
 
-In progress.
+## Contact
+
+* GitHub: # Data Analytics Portfolio
+
+## About Me
+
+I am a junior data analyst. I completed the Google Data Analytics Certificate and I am building portfolio projects to practice the full data analysis process.
+
+My work focuses on data cleaning, SQL analysis, Python, data visualization, and business recommendations.
+
+## Skills
+
+* Data cleaning
+* Data analysis
+* SQL
+* Python
+* pandas
+* SQLite
+* Data visualization
+* Business recommendations
+* GitHub documentation
+
+## Projects
+
+### Bellabeat Case Study: Smart Device Usage Analysis
+
+This project analyzes Fitbit smart device data to understand activity and sleep behavior.
+
+The goal is to find usage trends and use them to make marketing recommendations for Bellabeat Leaf.
+
+This case study follows the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+
+Tools used:
+
+* Python
+* pandas
+* SQLite
+* SQL
+* matplotlib
+* Jupyter Notebook
+* GitHub
+
+Status: In progress.
+
+## Contact
+
+* GitHub: https://nastya.lutsiv-data.github.io
+* LinkedIn: https://www.linkedin.com/in/anastasia-lutsiv-b5aa341aa
+* Email: nastya.luziw@gmail.com
+
+
+
+
