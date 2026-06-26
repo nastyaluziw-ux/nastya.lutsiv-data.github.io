@@ -8,7 +8,7 @@ The goal of this project is to apply these insights to Bellabeat Leaf and provid
 
 ## Business Task
 
-Analyze smart device usage data to identify trends in how consumers use fitness trackers. These trends will be used to make marketing recommendations for Bellabeat Leaf, a wellness tracker that monitors activity, sleep, and stress.
+Analyze Fitbit smart device usage data to identify trends in activity and sleep behavior. These insights will be used to make marketing recommendations for Bellabeat Leaf.
 
 ## Key Business Questions
 
@@ -18,9 +18,10 @@ Analyze smart device usage data to identify trends in how consumers use fitness 
 
 ## Stakeholders
 
-* Urška Sršen, Bellabeat cofounder and Chief Creative Officer
-* Sando Mur, Bellabeat cofounder
-* Bellabeat marketing analytics team
+- Bellabeat executive team
+- Bellabeat marketing analytics team
+- Urška Sršen
+- Sando Mur
 
 ## Product Focus
 
