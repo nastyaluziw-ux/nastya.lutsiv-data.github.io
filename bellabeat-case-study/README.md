@@ -42,3 +42,16 @@ Bellabeat Leaf was selected because it tracks activity, sleep, and stress. These
 ## Current Status
 
 Phase 1: Ask — completed.
+
+## Data Source
+
+The dataset used in this project is FitBit Fitness Tracker Data from Kaggle. I decided select two files for the analysis:
+
+- "dailyActivity_merged.csv"
+- "sleepDay_merged.csv"
+
+I selected these files  because they contain activity and sleep data, which connect directly to Bellabeat Leaf.
+
+## Dataset Limitations
+
+The dataset has a small sample size and does not represent Bellabeat customers directly. It also does not provide demographic details such as gender, age, or location. Because of this, the findings will be treated as general smart device usage insights.
