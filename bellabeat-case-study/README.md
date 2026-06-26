@@ -2,42 +2,42 @@
 
 ## Project Overview
 
-This case study analyzes Fitbit smart device usage data to identify trends in activity and sleep behavior. The goal is to apply these insights to Bellabeat’s marketing strategy.
+Bellabeat is a wellness technology company that creates health-focused smart products for women. This case study analyzes Fitbit smart device usage data to identify trends in activity and sleep behavior.
+
+The goal of this project is to apply these insights to Bellabeat Leaf and provide high-level marketing recommendations based on user behavior patterns.
 
 ## Business Task
 
-Analyze smart device usage data to identify user behavior trends and provide marketing recommendations for Bellabeat Leaf.
+Analyze smart device usage data to identify trends in how consumers use fitness trackers. These trends will be used to make marketing recommendations for Bellabeat Leaf, a wellness tracker that monitors activity, sleep, and stress.
 
-## Tools Used
+## Key Business Questions
 
-- Python
-- pandas
-- matplotlib
-- SQLite
-- SQL
-- Jupyter Notebook
+1. What are some trends in smart device usage?
+2. How could these trends apply to Bellabeat customers?
+3. How could these trends help influence Bellabeat’s marketing strategy?
 
-## Data Source
+## Stakeholders
 
-FitBit Fitness Tracker Data from Kaggle.
+* Urška Sršen, Bellabeat cofounder and Chief Creative Officer
+* Sando Mur, Bellabeat cofounder
+* Bellabeat marketing analytics team
 
-Files used:
+## Product Focus
 
-- dailyActivity_merged.csv
-- sleepDay_merged.csv
+The selected product for this analysis is Bellabeat Leaf.
 
-## Process
+Bellabeat Leaf was selected because it tracks activity, sleep, and stress. These features are closely related to the activity and sleep data available in the Fitbit dataset.
 
-1. Imported raw CSV files with Python.
-2. Checked duplicate records and missing values.
-3. Converted date columns to proper date format.
-4. Created calculated columns.
-5. Exported cleaned CSV files.
-6. Loaded cleaned data into SQLite.
-7. Used SQL queries for analysis.
-8. Created Python visualizations.
-9. Developed business recommendations.
+## Tools Planned
 
-## Project Status
+* Python
+* pandas
+* SQLite
+* SQL
+* matplotlib
+* Jupyter Notebook
+* GitHub
 
-In progress.
+## Current Status
+
+Phase 1: Ask — completed.
