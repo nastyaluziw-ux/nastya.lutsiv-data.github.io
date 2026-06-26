@@ -55,3 +55,7 @@ I selected these files  because they contain activity and sleep data, which conn
 ## Dataset Limitations
 
 The dataset has a small sample size and does not represent Bellabeat customers directly. It also does not provide demographic details such as gender, age, or location. Because of this, the findings will be treated as general smart device usage insights.
+
+## Current Status
+
+Phase 2: Prepare - completed
