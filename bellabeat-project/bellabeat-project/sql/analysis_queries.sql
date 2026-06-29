@@ -1,0 +1,2 @@
+-- Bellabeat SQL analysis queries
+-- Queries will be added during the Analyze phase.
