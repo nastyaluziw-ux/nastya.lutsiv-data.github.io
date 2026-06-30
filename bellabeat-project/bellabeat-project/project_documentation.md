@@ -48,3 +48,53 @@ New columns created in the sleep dataset:
 - awake_time_in_bed_minutes
 
 The cleaned datasets are ready for the analysis phase.
+
+## 4. Analyze
+
+### Tools Used
+
+I used SQL with SQLite inside Jupyter Notebook to analyze the cleaned datasets.
+
+### Analysis Goals
+
+The goal of this phase was to identify patterns in activity, sleep, sedentary behavior, and the relationship between activity and sleep.
+
+### SQL Analysis Steps
+
+The SQL analysis included:
+
+* Counting total daily activity records
+* Counting total sleep records
+* Counting unique users in the activity and sleep datasets
+* Checking the date range of both datasets
+* Calculating average steps, calories, sedentary minutes, and active minutes
+* Analyzing the distribution of activity levels
+* Calculating average sleep hours, time in bed, and awake time in bed
+* Joining activity and sleep data by user id and date
+* Comparing average sleep hours by activity level
+* Comparing sleep patterns by sedentary level
+
+### Main Findings
+
+The daily activity dataset contains 33 users, while the sleep dataset contains 24 users. This means that not all users who tracked daily activity also tracked sleep.
+
+Both datasets cover the same period, from 2016-04-12 to 2016-05-12. This makes it possible to compare activity and sleep data by user and date.
+
+In the joined dataset, sleep duration differs by activity level:
+
+* Low activity days had an average of 7.57 sleep hours.
+* Medium activity days had an average of 7.04 sleep hours.
+* High activity days had an average of 6.60 sleep hours.
+
+This shows a pattern between activity level and sleep duration, but it does not prove that activity level causes changes in sleep.
+
+The joined dataset also showed high average sedentary time. This may be useful for understanding how daily movement and sedentary behavior relate to wellness habits.
+
+### Analyze Phase Summary
+
+In this phase, I used SQL to explore the cleaned data and identify patterns.
+
+The main insights were related to user tracking behavior, activity levels, sleep duration, and sedentary time.
+
+These findings will be used in the Share phase to create visualizations and communicate the results more clearly.
+
