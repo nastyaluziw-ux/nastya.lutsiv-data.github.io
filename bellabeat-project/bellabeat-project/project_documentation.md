@@ -4,7 +4,7 @@
 
 The goal of this project is to analyze Fitbit smart device data and find trends in activity and sleep behavior.
 
-These trends will be used to make marketing recommendations for Bellabeat Leaf.
+These trends will be used to make marketing recommendations for Bellabeat wellness products, including Bellabeat Leaf.
 
 ## 2. Prepare
 
