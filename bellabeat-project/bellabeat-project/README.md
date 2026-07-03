@@ -14,6 +14,11 @@ The main business question is:
 
 How can Bellabeat use smart device data to help users build healthier daily habits?
 
+## Data Source
+
+The dataset used in this project is the Fitbit Fitness Tracker Data from Kaggle. It contains activity and sleep records from smart device users.
+
+
 ## Tools Used
 
 - Python
@@ -47,6 +52,13 @@ How can Bellabeat use smart device data to help users build healthier daily habi
 - [User Tracking Coverage](visuals/user_tracking_coverage.png)
 - [Average Sleep Hours by Sedentary Level](visuals/avg_sleep_hours_by_sedentary_level.png)
 - [Sleep Hours vs Sedentary Hours](visuals/sleep_hours_vs_sedentary_hours.png)
+
+  ## Limitations
+
+- The dataset contains a small sample of users.
+- The data is from 2016, so behavior may differ from current smart device users.
+- The analysis shows correlation, not causation.
+- The data comes from Fitbit users, not Bellabeat users directly.
 
 ## Recommendations
 
