@@ -68,7 +68,7 @@ Status: Completed.
 
 ## Contact
 
-* GitHub: https://nastya.lutsiv-data.github.io
+* GitHub: https://github.com/nastyaluziw-ux/nastya.lutsiv-data.github.io
 * LinkedIn: https://www.linkedin.com/in/anastasia-lutsiv-b5aa341aa
 * Email: nastya.luziw@gmail.com
 
