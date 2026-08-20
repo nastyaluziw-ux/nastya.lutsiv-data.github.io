@@ -19,15 +19,12 @@ How can Bellabeat use smart device data to help users build healthier daily habi
 The dataset used in this project is the Fitbit Fitness Tracker Data from Kaggle. It contains activity and sleep records from smart device users.
 
 
-## Tools Used
+## Technologies Used
 
-- Python
-- pandas
-- SQLite
-- SQL
-- matplotlib
-- Jupyter Notebook
-- GitHub
+- Language: Python , SQL
+- Data Analysis: pandas,numpy
+- Visualization: Matplotlib
+- Environment: Jupyter Notebook
 
 ## Project Structure
 
