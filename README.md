@@ -6,17 +6,9 @@ I am a junior data analyst. I completed the Google Data Analytics Certificate an
 
 My work focuses on data cleaning, SQL analysis, Python, data visualization, and business recommendations.
 
-## Skills
+## Tech Stack
 
-- Data cleaning
-- Data analysis
-- SQL
-- Python
-- pandas
-- SQLite
-- Data visualization
-- Business recommendations
-- GitHub documentation
+SQL | Python | pandas | BigQuery | Tableau | Excel | PostgreSQL | SQLite | Git | GitHub
 
 ## Projects
 
